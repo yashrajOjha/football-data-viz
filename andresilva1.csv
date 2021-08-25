@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,year,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+377373,61,Goal,115.3199982,41.2,0.506103635,André Silva,h,6170,OpenPlay,2020,Head,14174,Eintracht Frankfurt,Arminia Bielefeld,1,1,9/19/2020 13:30,Bas Dost,HeadPass
+378555,29,Goal,106.2,40,0.757776678,André Silva,a,6170,Penalty,2020,RightFoot,14182,Hertha Berlin,Eintracht Frankfurt,1,3,9/25/2020 18:30,NA,Standard
+382579,46,Goal,106.2,40,0.757776678,André Silva,a,6170,Penalty,2020,RightFoot,15174,FC Cologne,Eintracht Frankfurt,1,1,10/18/2020 13:30,NA,Standard
+384593,64,Goal,111.1199982,37.6,0.5122329,André Silva,h,6170,OpenPlay,2020,RightFoot,15189,Eintracht Frankfurt,Werder Bremen,1,1,10/31/2020 14:30,Daichi Kamada,Pass
+385969,60,Goal,110.0399963,37.5200012,0.423549175,André Silva,a,6170,OpenPlay,2020,RightFoot,15195,VfB Stuttgart,Eintracht Frankfurt,2,2,11/7/2020 14:30,Aymen Barkok,Pass
+388643,26,Goal,114.8399963,49.36000064,0.290487915,André Silva,a,6170,OpenPlay,2020,LeftFoot,15217,Union Berlin,Eintracht Frankfurt,3,3,11/28/2020 14:30,Daichi Kamada,Pass
+388645,36,Goal,105.9600037,50.3200012,0.020726567,André Silva,a,6170,SetPiece,2020,Head,15217,Union Berlin,Eintracht Frankfurt,3,3,11/28/2020 14:30,Filip Kostic,Cross
+392556,20,Goal,106.2,40,0.757776678,André Silva,h,6170,Penalty,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,12/15/2020 17:30,NA,Standard
+392557,23,Goal,108.7199982,30.63999936,0.321409106,André Silva,h,6170,OpenPlay,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,12/15/2020 17:30,Aymen Barkok,Throughball
+397778,23,Goal,106.2,40,0.757776678,André Silva,a,6170,Penalty,2020,RightFoot,15272,Mainz 05,Eintracht Frankfurt,0,2,1/9/2021 14:30,NA,Standard
+397789,71,Goal,106.2,40,0.757776678,André Silva,a,6170,Penalty,2020,RightFoot,15272,Mainz 05,Eintracht Frankfurt,0,2,1/9/2021 14:30,NA,Standard
+399517,27,Goal,106.2,41.6,0.111083612,André Silva,h,6170,OpenPlay,2020,RightFoot,15279,Eintracht Frankfurt,Schalke 04,3,1,1/17/2021 17:00,Erik Durm,Rebound
+400362,24,Goal,111.7199982,42.4,0.564875007,André Silva,a,6170,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,1/23/2021 14:30,NA,None
+400366,32,Goal,105.6,41.9200012,0.478083074,André Silva,a,6170,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,1/23/2021 14:30,Filip Kostic,Pass
+401607,66,Goal,112.4399963,39.43999936,0.067714967,André Silva,h,6170,OpenPlay,2020,Head,15306,Eintracht Frankfurt,Hertha Berlin,3,1,1/30/2021 14:30,Filip Kostic,Aerial
+401611,94,Goal,106.2,40,0.757696271,André Silva,h,6170,Penalty,2020,RightFoot,15306,Eintracht Frankfurt,Hertha Berlin,3,1,1/30/2021 14:30,NA,Standard
+403802,63,Goal,116.7600037,35.6,0.640704453,André Silva,a,6170,OpenPlay,2020,Head,15313,Hoffenheim,Eintracht Frankfurt,1,3,2/7/2021 14:30,Filip Kostic,Chipped
+404797,56,Goal,110.6399963,36.4799988,0.487716109,André Silva,h,6170,OpenPlay,2020,RightFoot,15325,Eintracht Frankfurt,FC Cologne,2,0,2/14/2021 14:30,Daichi Kamada,BallTouch
+406439,8,Goal,111.8399963,41.76000064,0.06333378,André Silva,a,6170,FromCorner,2020,Head,15345,Werder Bremen,Eintracht Frankfurt,2,1,2/26/2021 19:30,Filip Kostic,Aerial
+411340,1,Goal,116.6399963,39.76000064,0.90511626,André Silva,h,6170,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,3/20/2021 14:30,Filip Kostic,Pass
+411353,40,Goal,104.8800018,34.23999936,0.109838419,André Silva,h,6170,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,3/20/2021 14:30,Daichi Kamada,LayOff
+412557,86,Goal,115.0800018,36.56000064,0.579901576,André Silva,a,6170,OpenPlay,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,4/3/2021 13:30,Filip Kostic,Cross
+413770,53,Goal,108.6,27.83999936,0.078447349,André Silva,h,6170,OpenPlay,2020,RightFoot,15385,Eintracht Frankfurt,Wolfsburg,4,3,4/10/2021 13:30,Daichi Kamada,Pass
+416245,57,Goal,115.4399963,37.6,0.633201182,André Silva,h,6170,OpenPlay,2020,Head,15404,Eintracht Frankfurt,Augsburg,2,0,4/20/2021 18:30,Filip Kostic,Cross
+417421,89,Goal,114.8399963,39.1200012,0.616327882,André Silva,a,6170,OpenPlay,2020,Head,15412,Bayer Leverkusen,Eintracht Frankfurt,3,1,4/24/2021 16:30,Steven Zuber,Cross
+421898,28,Goal,114.8399963,30.4799988,0.154471114,André Silva,a,6170,OpenPlay,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,5/15/2021 13:30,Amin Younes,Cross
+421916,71,Goal,117.7199982,35.76000064,0.666260242,André Silva,a,6170,FromCorner,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,5/15/2021 13:30,NA,Rebound
