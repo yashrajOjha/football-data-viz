@@ -7,3 +7,8 @@ Here for the shot map I've used the example of Andre Silva's 20/21 season for Ei
 The pitch was drawn with the help of mplsoccer, a python library helpful in different football vizzes.
 
 The CSV file is processed by the help of pandas and the points are plotted using scatter plot from matplotlib.
+
+## Action Map
+Action Map is used depict what kind of action a player is performing on the field, a dribble/takeon, an interception, a tackle and so on. Similar to the shot map I've used the mpl soccer library for drawing the pitch. Every action from the player is represented in different color and shape, and is implemented using scatter plot from matplotlib.
+
+The CSV has player name, event, x and y position and is processed as a data frame using pandas.
