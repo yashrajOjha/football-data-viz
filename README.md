@@ -15,3 +15,11 @@ The CSV file has player name, event, x and y position and is processed as a data
 
 ## Pass Map
 Pass Map shows us the passes a player made during a match, in this CSV file I've categorized the passes as successful and unsuccessful, with the former being indicated by green and the latter red. The passes have a set of four coordinates, start x, start y which locate the starting coordinates of the pass and end x, end y which locate the ending coordinates of the pass. The starting coordinates indicated by a point using the scatter plot feature and the 4 points are connected together using the plot feature of pyplot.
+
+## Heat Map
+Heat Map depicts regions in which a player oftenly operates. We identify the region of operation by mostly highlighting the starting points of passes/actions, in our case it is passes.
+
+Libraries used are SciPy for filters, Cmasher for colors, MPLSoccer for the pitch, Pandas to process data and MatPlotLib for plotting the points. 
+
+In code: bin_statistic: divides the space into bins, and returns the count of the number of passes in each bin. In our example the pitch is divided into 25 x 25 bins, bins that have a higher number of starting pass points are highlighted by more vibrant colour. 
+The Gaussian filter is used as a smoothing operator, used to 'blur' images and remove detail and noise.
