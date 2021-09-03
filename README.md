@@ -23,3 +23,8 @@ Libraries used are SciPy for filters, Cmasher for colors, MPLSoccer for the pitc
 
 In code: bin_statistic: divides the space into bins, and returns the count of the number of passes in each bin. In our example the pitch is divided into 25 x 25 bins, bins that have a higher number of starting pass points are highlighted by more vibrant colour. 
 The Gaussian filter is used as a smoothing operator, used to 'blur' images and remove detail and noise.
+
+## [Stacked Horizontal Bar Graphs](https://github.com/yashrajOjha/football-data-viz/blob/main/H%20Bar%20Graph%20(21-22%20LaLiga%20Transfers).ipynb)
+This graph depicts the type of transfers made by La Liga teams in 21/22 {Real Madrid, Barcelona, Atletico, Villarreal, Sevilla}. The transfer types are {sold, bought, loan-in, loan-out} highlighed in different colors using options from cmasher.
+
+
