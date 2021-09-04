@@ -27,4 +27,5 @@ The Gaussian filter is used as a smoothing operator, used to 'blur' images and r
 ## [Stacked Horizontal Bar Graphs](https://github.com/yashrajOjha/football-data-viz/blob/main/H%20Bar%20Graph%20(21-22%20LaLiga%20Transfers).ipynb)
 This graph depicts the type of transfers made by La Liga teams in 21/22 {Real Madrid, Barcelona, Atletico, Villarreal, Sevilla}. The transfer types are {sold, bought, loan-in, loan-out} highlighed in different colors using options from cmasher.
 
-
+## [Comet Style Glowing Pass Maps](https://github.com/yashrajOjha/football-data-viz/blob/main/Comet%20Pass%20Maps.ipynb)
+This style of pass maps was inspired by the one available with MPL Soccer. The basics are the same as normal pass maps, but here the lines have a glow and the endpoint of passes are shown as comets. Just like normal pass maps the pitch is drawn with the help of MPL Soccer library, the type of passes are shown by different colors.
