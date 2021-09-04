@@ -29,3 +29,5 @@ This graph depicts the type of transfers made by La Liga teams in 21/22 {Real Ma
 
 ## [Comet Style Glowing Pass Maps](https://github.com/yashrajOjha/football-data-viz/blob/main/Comet%20Pass%20Maps.ipynb)
 This style of pass maps was inspired by the one available with MPL Soccer. The basics are the same as normal pass maps, but here the lines have a glow and the endpoint of passes are shown as comets. Just like normal pass maps the pitch is drawn with the help of MPL Soccer library, the type of passes are shown by different colors.
+
+The glow in the passes and lines are done using another loop that plots the line with a low alpha (transparency) value and gradually increases the linewidth.
