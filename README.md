@@ -31,3 +31,7 @@ This graph depicts the type of transfers made by La Liga teams in 21/22 {Real Ma
 This style of pass maps was inspired by the one available with MPL Soccer. The basics are the same as normal pass maps, but here the lines have a glow and the endpoint of passes are shown as comets. Just like normal pass maps the pitch is drawn with the help of MPL Soccer library, the type of passes are shown by different colors.
 
 The glow in the passes and lines are done using another loop that plots the line with a low alpha (transparency) value and gradually increases the linewidth.
+
+## [Scatter Plot](https://github.com/yashrajOjha/football-data-viz/blob/main/Hardworking%20FWs%20in%20MLS.ipynb)
+
+This is a scatter plot to show the hardworking forwards in the MLS, I've used pressures as the metric, Number of pressures p90 in the Middle 3rd on the Y axis and number of pressures p90 in the Attacking 3rd on the X axis, the plot has a filter, which is the player should have played more than 9.0 90s. I've shown names of the players that have above average pressure stats (I intend on altering the text placement in the future).
