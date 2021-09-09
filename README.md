@@ -1,6 +1,13 @@
 # Football Data Visualizations
 Hello ! In this repository I'll be uploading python files I created for as the title suggests football data visualizations, some example being player shot maps, pass maps, action maps and many others.
 
+## [Scraping UnderStat Shot Data](https://github.com/yashrajOjha/football-data-viz/blob/main/Scraping%20Understat%20Data.ipynb)
+For any visualization you always need, this python file has the code to scrap data from Under Stat, a site where you will find detailed xG statistics for the top European leagues.
+
+In our case, we will scrap shots data of Real Madrid vs Betis - La Liga 21/22. Firstly we parse the website data using Beautiful Soup, basically extract data from 'script' tags in the website. This raw data is then cleaned and loaded up as json. After that I create lists to store values like, the team Name, X and Y coordinates of the shot, result, expected goals and situation.
+
+The lists are then converted to a dataframe using pandas, which is later converted to a CSV file for future reference.
+
 ## [Shot Map](https://github.com/yashrajOjha/football-data-viz/blob/main/Shot%20Map.ipynb)
 Here for the shot map I've used the example of Andre Silva's 20/21 season for Eintracht Frankfurt. I collected his shot location, plotted it according to varying xG, meaning a shot with lesser xG will have a lower radius point and a shot with higher xG will have a bigger radius point. I further highlighted it according to the type of shot, a left/right foot shot or a header. 
 
