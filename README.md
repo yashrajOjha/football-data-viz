@@ -42,3 +42,8 @@ The glow in the passes and lines are done using another loop that plots the line
 ## [Scatter Plot](https://github.com/yashrajOjha/football-data-viz/blob/main/Hardworking%20FWs%20in%20MLS.ipynb)
 
 This is a scatter plot to show the hardworking forwards in the MLS, I've used pressures as the metric, Number of pressures p90 in the Middle 3rd on the Y axis and number of pressures p90 in the Attacking 3rd on the X axis, the plot has a filter, which is the player should have played more than 9.0 90s. I've shown names of the players that have above average pressure stats (I intend on altering the text placement in the future).
+
+## [Shell Chart](https://github.com/yashrajOjha/football-data-viz/blob/main/Radar%20Chart.ipynb)
+
+In this chart what I've tried to achieve is, arranging the horizontal bars in a circular manner with increasing heights. This is done to obtain a circular shell like output.
+I've extensively used the bar graph feature in this chart, with a large number of labels to show the numbers.
